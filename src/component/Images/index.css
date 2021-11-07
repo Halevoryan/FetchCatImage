@@ -1,0 +1,28 @@
+.Images {
+    width: 70%;
+}
+
+.Images .MainRight {
+    padding: 17px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.MainRight .catDiv {
+    width: 200px;
+    height: 200px;
+    border: 3px solid #515151;
+    margin: 5px;
+}
+.exmpl{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.exmpl img {
+    height: 100%;
+    width: auto;
+}
+

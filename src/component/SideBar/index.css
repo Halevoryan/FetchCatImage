@@ -1,0 +1,30 @@
+.SideBar {
+    width: 30%;
+    text-align: center;
+}
+
+.SideBarLeft {
+    font-size: 30px;
+    padding: 23px 0;
+    font-family: sans-serif;
+    color: black;
+}
+
+.SideBarLeft .catButton button {
+    width: 120px;
+    margin: 9px 0px;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: blue;
+    background-color: beige;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.SideBarRight {
+    margin-top: 100px;
+    width: 70%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
